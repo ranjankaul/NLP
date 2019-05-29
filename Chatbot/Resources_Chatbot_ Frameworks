@@ -1,0 +1,39 @@
+ Chatbots/Bot Frameworks
+
+• https://woebot.io/ 
+  • Can track your mood
+  • Helps you feel better
+  • Gives you insights by seeing your mood pattern
+  • Teaches you how to be positive and high-energy
+  
+• https://qnamaker.ai/
+  • Build, train, and publish a simple question-and-answer bot based on FAQ, URLs, and structured documents in minutes.
+  • Test and refine responses using a familiar chat interface.
+  • https://dialogflow.com/
+  • Formerly known as api.ai and widely popular among chatbot enthusiasts.
+  • Give users new ways to interact with your product by building engaging voice-and text-based conversational interfaces powered
+    by AI.
+  • Connect with users on the Google Assistant, Amazon Alexa,Facebook Messenger, and other popular platforms and devices.
+  • Analyzes and understands the user’s intent to help you respond in the most useful way.
+
+• https://core.rasa.ai
+ • A framework for building conversational software
+ • You can implement the actions your bot can take in Python code.
+ • Rather than a bunch of if…else statements, the logic of your bot is based on a probabilistic model trained on example
+   conversations.
+
+• https://wit.ai
+  • Wit.ai makes it easy for developers to build applications and devices that you can talk or text to.
+  • Acquired by Facebook within 21 months of its launch, wit.ai team contributes toward Facebook’s own NLP engine inside Facebook.
+  • You can use wit.ai for building chatbots, home automation, etc.
+  • Wit.ai is similar to the way Dialogflow works but is not as featurerich as Dialogflow. People initially used wit.ai, as it was free and
+    Dialogflow was not, but later on Dialogflow became free as well.
+
+• https://www.luis.ai/
+  • A machine learning-based service to build natural language into apps, bots, and IoT devices.
+  • Quickly create enterprise-ready, custom models that continuously improve.
+
+• http://botkit.ai
+  • Visual conversation builder
+  • Built-in stats and metrics
+  • Can be easily integrated with Facebook, Microsoft, IBM Watson, Slack, Telegram, etc.
